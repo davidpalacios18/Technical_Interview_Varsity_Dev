@@ -1,0 +1,15 @@
+/workspace/Technical_Interview_Varsity_Dev/Interview/TechnicalInterview/bin/Debug/net8.0/TechnicalInterview
+/workspace/Technical_Interview_Varsity_Dev/Interview/TechnicalInterview/bin/Debug/net8.0/TechnicalInterview.deps.json
+/workspace/Technical_Interview_Varsity_Dev/Interview/TechnicalInterview/bin/Debug/net8.0/TechnicalInterview.runtimeconfig.json
+/workspace/Technical_Interview_Varsity_Dev/Interview/TechnicalInterview/bin/Debug/net8.0/TechnicalInterview.dll
+/workspace/Technical_Interview_Varsity_Dev/Interview/TechnicalInterview/bin/Debug/net8.0/TechnicalInterview.pdb
+/workspace/Technical_Interview_Varsity_Dev/Interview/TechnicalInterview/obj/Debug/net8.0/TechnicalInterview.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/Technical_Interview_Varsity_Dev/Interview/TechnicalInterview/obj/Debug/net8.0/TechnicalInterview.AssemblyInfoInputs.cache
+/workspace/Technical_Interview_Varsity_Dev/Interview/TechnicalInterview/obj/Debug/net8.0/TechnicalInterview.AssemblyInfo.cs
+/workspace/Technical_Interview_Varsity_Dev/Interview/TechnicalInterview/obj/Debug/net8.0/TechnicalInterview.csproj.CoreCompileInputs.cache
+/workspace/Technical_Interview_Varsity_Dev/Interview/TechnicalInterview/obj/Debug/net8.0/TechnicalInterview.sourcelink.json
+/workspace/Technical_Interview_Varsity_Dev/Interview/TechnicalInterview/obj/Debug/net8.0/TechnicalInterview.dll
+/workspace/Technical_Interview_Varsity_Dev/Interview/TechnicalInterview/obj/Debug/net8.0/refint/TechnicalInterview.dll
+/workspace/Technical_Interview_Varsity_Dev/Interview/TechnicalInterview/obj/Debug/net8.0/TechnicalInterview.pdb
+/workspace/Technical_Interview_Varsity_Dev/Interview/TechnicalInterview/obj/Debug/net8.0/TechnicalInterview.genruntimeconfig.cache
+/workspace/Technical_Interview_Varsity_Dev/Interview/TechnicalInterview/obj/Debug/net8.0/ref/TechnicalInterview.dll
